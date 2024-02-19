@@ -1,0 +1,2 @@
+[09:21:43] [plugins/mysql] mysql_connect: handle error: no hostname specified
+[09:21:43] [plugins/mysql] mysql_errno: invalid connection handle '0'
